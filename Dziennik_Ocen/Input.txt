@@ -1,0 +1,51 @@
+2P
+Jan Idzi 
+T
+Pan Informatyk
+T
+Wiktor Wektor
+T
+Twoj zloty
+T
+Twoja marka
+T
+Jakis gracz
+N
+T
+3P
+Jan Dziany
+T
+Jerzy Stuhr
+T
+Wiktor Sad
+T
+Twoj aktor
+T
+Twoja klasa
+T
+Jakis pan
+N
+N
+Idzi
+2P
+3
+T
+4
+T
+6
+N
+N
+Wektor
+3P
+5
+T
+6
+T
+2
+T
+4
+N
+T
+Wektor
+N
+Wektor

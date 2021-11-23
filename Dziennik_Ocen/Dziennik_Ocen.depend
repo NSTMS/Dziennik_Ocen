@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637502667 source:d:\zespó³ szkó³ £¹cznoœci\c++\informatyka\dziennik_ocena_dla_pana_krzysia\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<utility>
+	<map>
+	<algorithm>
+	<iomanip>
+
